@@ -88,7 +88,8 @@ ggplot(df_US_states[year != 2005], aes(light_gini, Gini)) + geom_point() +
 
 
 # Fig 4
-# Use data at https://zenodo.org/record/4635734/files/gini_2010.tif?download=1 to plot
+# Use data at https://github.com/muhusmanmirza/PNAS_light_inequality to plot the static window inequality maps for 1990, 1995, 2000, 2005 & 2010 
+# Use data https://zenodo.org/record/4635734/files/gini_2010.tif?download=1 to plot the smoothed version for 2010. 
 
 
 
